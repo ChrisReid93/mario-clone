@@ -1,15 +1,15 @@
-[gd_scene load_steps=8 format=3 uid="uid://dv1ubdld4eu1b"]
+[gd_scene load_steps=11 format=3 uid="uid://dv1ubdld4eu1b"]
 
 [ext_resource type="PackedScene" uid="uid://bkhvhx5lmjp6" path="res://Scenes/player.tscn" id="1_ytlsb"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_png7v"]
-size = Vector2(716, 30)
+size = Vector2(2125, 30)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0b6rn"]
 size = Vector2(31.6563, 242.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_cwhwv"]
-size = Vector2(33.3281, 222.75)
+size = Vector2(33.3281, 279.375)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_s6wqh"]
 size = Vector2(134.5, 30)
@@ -17,16 +17,26 @@ size = Vector2(134.5, 30)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_het6o"]
 size = Vector2(134.5, 30)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mey7g"]
+size = Vector2(134.5, 30)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_uu7c3"]
+size = Vector2(134.5, 30)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_p4g4b"]
+size = Vector2(162.25, 30)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_g6q3r"]
 size = Vector2(134.5, 30)
 
 [node name="World" type="Node2D"]
+position = Vector2(-2, 89)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 position = Vector2(120, 110)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(241, 188)
+position = Vector2(945.5, 188)
 shape = SubResource("RectangleShape2D_png7v")
 
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
@@ -34,7 +44,7 @@ position = Vector2(-101, 47.75)
 shape = SubResource("RectangleShape2D_0b6rn")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(582, 59.625)
+position = Vector2(1432, 86)
 shape = SubResource("RectangleShape2D_cwhwv")
 
 [node name="CollisionShape2D4" type="CollisionShape2D" parent="StaticBody2D"]
@@ -45,9 +55,21 @@ shape = SubResource("RectangleShape2D_s6wqh")
 position = Vector2(496, 3)
 shape = SubResource("RectangleShape2D_het6o")
 
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(845, -1)
+shape = SubResource("RectangleShape2D_mey7g")
+
+[node name="CollisionShape2D8" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(1221, 0)
+shape = SubResource("RectangleShape2D_uu7c3")
+
+[node name="CollisionShape2D9" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(1830, 88)
+shape = SubResource("RectangleShape2D_p4g4b")
+
 [node name="CollisionShape2D6" type="CollisionShape2D" parent="StaticBody2D"]
 position = Vector2(196, 122)
 shape = SubResource("RectangleShape2D_g6q3r")
 
 [node name="Player" parent="." instance=ExtResource("1_ytlsb")]
-position = Vector2(77, 13)
+position = Vector2(88, 0)

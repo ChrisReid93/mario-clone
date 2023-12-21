@@ -10,23 +10,42 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 # Use "@onready" for AnimationPlayer to enable get_node
 @onready var anim = $AnimationPlayer
 var can_crouch
-var can_jump
+var can_jump = false
 
 func _physics_process(delta):
 	# Add the gravity.
 	if not is_on_floor():
 		velocity.y += gravity * delta
 		can_crouch = false
+		
+	# Coyote Time setup. Check if player is on floor, and let them jump. If they fall (i.e. don't jump) then start CoyoteTime.
+	if is_on_floor():
+		can_jump = true
+	# Keep restarting CoyoteTimer when player is on ground. Once player leaves ground and can_jump then start timer.
+	elif can_jump == true and $CoyoteTimer.is_stopped():
 		$CoyoteTimer.start()
 
-	# Handle crouch.
-	if Input.is_action_pressed("crouch") and can_crouch == true:
-		crouch()
+#	# Handle crouch.
+#	if Input.is_action_pressed("crouch") and can_crouch == true:
+#		crouch()
+
+	# Handle falling
+	if not is_on_floor():
+		if velocity.y > 0:
+			anim.play("Fall")
 
 	# Handle Jump.
-	if Input.is_action_just_pressed("jump") and is_on_floor():
-		velocity.y = JUMP_VELOCITY
-		anim.play("Jump")
+	if can_jump == true:
+		if Input.is_action_just_pressed("jump"):
+			jump()
+			
+	# Create jump buffering.
+	if can_jump == false:
+		if Input.is_action_just_pressed("jump"):
+			$JumpTimer.start()
+	
+	if can_jump == true and $JumpTimer.time_left > 0:
+		jump()
 		
 	# Get the input direction and handle the movement/deceleration.
 	# As good practice, you should replace UI actions with custom gameplay actions.
@@ -57,10 +76,21 @@ func _physics_process(delta):
 
 	move_and_slide()
 
+# Create jump function
+func jump():
+	velocity.y = JUMP_VELOCITY
+	anim.play("Jump")
+	can_jump = false
+
 # Create crouch function
 func crouch():
 	anim.play("Crouch")
 
 
 func _on_coyote_timer_timeout():
-	pass # Replace with function body.
+	can_jump = false
+	print("CANNOT JUMP")
+
+
+func _on_jump_timer_timeout():
+	print("JUMP TIMER TIMED OUT")
