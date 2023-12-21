@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r7f6av1ajs41"
-path="res://.godot/imported/alienYellow_duck.png-c6f40e67da7bb75d1549d8dc000978bf.ctex"
+path="res://.godot/imported/alienYellow_duck.png-37794506e8516619704fcb68a6c1ba96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/128x256/Yellow/alienYellow_duck.png"
-dest_files=["res://.godot/imported/alienYellow_duck.png-c6f40e67da7bb75d1549d8dc000978bf.ctex"]
+source_file="res://Art/PNG/Players/128x256/Yellow/alienYellow_duck.png"
+dest_files=["res://.godot/imported/alienYellow_duck.png-37794506e8516619704fcb68a6c1ba96.ctex"]
 
 [params]
 

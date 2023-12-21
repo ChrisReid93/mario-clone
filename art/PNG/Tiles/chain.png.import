@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c248jgsesdugf"
-path="res://.godot/imported/chain.png-b7946e8597091c96d97106e6a5141545.ctex"
+path="res://.godot/imported/chain.png-aac1c2b6ebed45e6c108ef8f31540bff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/chain.png"
-dest_files=["res://.godot/imported/chain.png-b7946e8597091c96d97106e6a5141545.ctex"]
+source_file="res://Art/PNG/Tiles/chain.png"
+dest_files=["res://.godot/imported/chain.png-aac1c2b6ebed45e6c108ef8f31540bff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://16kwcyrrk77"
-path="res://.godot/imported/brickBrown.png-8c5d9df233a437b5b1394ff98b6d0e8d.ctex"
+path="res://.godot/imported/brickBrown.png-2cf81c60c5a644721e1c56334d4bf971.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Particles/brickBrown.png"
-dest_files=["res://.godot/imported/brickBrown.png-8c5d9df233a437b5b1394ff98b6d0e8d.ctex"]
+source_file="res://Art/PNG/Particles/brickBrown.png"
+dest_files=["res://.godot/imported/brickBrown.png-2cf81c60c5a644721e1c56334d4bf971.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bci5g1uts71v"
-path="res://.godot/imported/alienGreen_hit.png-dd87fb27f497d1a98501048c249a2ae2.ctex"
+path="res://.godot/imported/alienGreen_hit.png-3a380f5768d55a5ea211ef4ff52fc155.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/Variable sizes/Green/alienGreen_hit.png"
-dest_files=["res://.godot/imported/alienGreen_hit.png-dd87fb27f497d1a98501048c249a2ae2.ctex"]
+source_file="res://Art/PNG/Players/Variable sizes/Green/alienGreen_hit.png"
+dest_files=["res://.godot/imported/alienGreen_hit.png-3a380f5768d55a5ea211ef4ff52fc155.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b43kdt6hpflsy"
-path="res://.godot/imported/planetMid.png-f0f946048110ec2f689f98a728a05a97.ctex"
+path="res://.godot/imported/planetMid.png-1f05a4493780d1c7fbc2c75615d1c8bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetMid.png"
-dest_files=["res://.godot/imported/planetMid.png-f0f946048110ec2f689f98a728a05a97.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetMid.png"
+dest_files=["res://.godot/imported/planetMid.png-1f05a4493780d1c7fbc2c75615d1c8bd.ctex"]
 
 [params]
 

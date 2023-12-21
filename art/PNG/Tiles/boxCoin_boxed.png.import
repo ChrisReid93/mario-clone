@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmpm81i00a6de"
-path="res://.godot/imported/boxCoin_boxed.png-1257d817d7b421d74ba74e5f6d26e06d.ctex"
+path="res://.godot/imported/boxCoin_boxed.png-6fcc4ce90fe6e0d486f2789b61e4fcd8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/boxCoin_boxed.png"
-dest_files=["res://.godot/imported/boxCoin_boxed.png-1257d817d7b421d74ba74e5f6d26e06d.ctex"]
+source_file="res://Art/PNG/Tiles/boxCoin_boxed.png"
+dest_files=["res://.godot/imported/boxCoin_boxed.png-6fcc4ce90fe6e0d486f2789b61e4fcd8.ctex"]
 
 [params]
 

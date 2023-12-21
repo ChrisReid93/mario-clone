@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx2gov7tjwntl"
-path="res://.godot/imported/hudHeart_full.png-20794bbae986505316865f69973ae9a0.ctex"
+path="res://.godot/imported/hudHeart_full.png-d36838869cc0361a183205b0913da05b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/HUD/hudHeart_full.png"
-dest_files=["res://.godot/imported/hudHeart_full.png-20794bbae986505316865f69973ae9a0.ctex"]
+source_file="res://Art/PNG/HUD/hudHeart_full.png"
+dest_files=["res://.godot/imported/hudHeart_full.png-d36838869cc0361a183205b0913da05b.ctex"]
 
 [params]
 

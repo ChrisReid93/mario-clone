@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g8hnpp24nnw8"
-path="res://.godot/imported/alienPink_stand.png-b3accdb85c038ddda12b7592394f3a83.ctex"
+path="res://.godot/imported/alienPink_stand.png-350a0de7441f46ceb42c1b1f33e70d49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/128x256/Pink/alienPink_stand.png"
-dest_files=["res://.godot/imported/alienPink_stand.png-b3accdb85c038ddda12b7592394f3a83.ctex"]
+source_file="res://Art/PNG/Players/128x256/Pink/alienPink_stand.png"
+dest_files=["res://.godot/imported/alienPink_stand.png-350a0de7441f46ceb42c1b1f33e70d49.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wpmngdob2s6a"
-path="res://.godot/imported/wormGreen_dead.png-14c1d77fbd4252d0952fe90a5148f955.ctex"
+path="res://.godot/imported/wormGreen_dead.png-d9f5f898862eca71c9c17224890f3f57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/wormGreen_dead.png"
-dest_files=["res://.godot/imported/wormGreen_dead.png-14c1d77fbd4252d0952fe90a5148f955.ctex"]
+source_file="res://Art/PNG/Enemies/wormGreen_dead.png"
+dest_files=["res://.godot/imported/wormGreen_dead.png-d9f5f898862eca71c9c17224890f3f57.ctex"]
 
 [params]
 

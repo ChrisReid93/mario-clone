@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmbi81gj88lix"
-path="res://.godot/imported/colored_desert.png-9749ad8fd9ab8cb5d80f9171487abc35.ctex"
+path="res://.godot/imported/colored_desert.png-c31cf691c0ac3ac3e807883ae4aa2324.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Backgrounds/colored_desert.png"
-dest_files=["res://.godot/imported/colored_desert.png-9749ad8fd9ab8cb5d80f9171487abc35.ctex"]
+source_file="res://Art/PNG/Backgrounds/colored_desert.png"
+dest_files=["res://.godot/imported/colored_desert.png-c31cf691c0ac3ac3e807883ae4aa2324.ctex"]
 
 [params]
 

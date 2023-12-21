@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsg7kxhvbrb7p"
-path="res://.godot/imported/stoneCliffAlt_left.png-cbbc3b4309ad9e29933a0fceabeeb88d.ctex"
+path="res://.godot/imported/stoneCliffAlt_left.png-02da4960099eb0ffce09ca15932974c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Stone/stoneCliffAlt_left.png"
-dest_files=["res://.godot/imported/stoneCliffAlt_left.png-cbbc3b4309ad9e29933a0fceabeeb88d.ctex"]
+source_file="res://Art/PNG/Ground/Stone/stoneCliffAlt_left.png"
+dest_files=["res://.godot/imported/stoneCliffAlt_left.png-02da4960099eb0ffce09ca15932974c7.ctex"]
 
 [params]
 

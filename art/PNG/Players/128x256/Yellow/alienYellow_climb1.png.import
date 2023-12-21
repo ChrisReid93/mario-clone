@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d238mp3dvsq6r"
-path="res://.godot/imported/alienYellow_climb1.png-1ba2a13c21b81f0adc6386155edd2920.ctex"
+path="res://.godot/imported/alienYellow_climb1.png-064fd02cac7ca0f41bf18e4387e8abd5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/128x256/Yellow/alienYellow_climb1.png"
-dest_files=["res://.godot/imported/alienYellow_climb1.png-1ba2a13c21b81f0adc6386155edd2920.ctex"]
+source_file="res://Art/PNG/Players/128x256/Yellow/alienYellow_climb1.png"
+dest_files=["res://.godot/imported/alienYellow_climb1.png-064fd02cac7ca0f41bf18e4387e8abd5.ctex"]
 
 [params]
 

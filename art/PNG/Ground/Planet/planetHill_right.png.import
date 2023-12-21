@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://barla3csu4jah"
-path="res://.godot/imported/planetHill_right.png-ee3e28d50e9c2b3679a9c67f2dfc5cfc.ctex"
+path="res://.godot/imported/planetHill_right.png-0368162cdbdcf70d2bcc2a96ab4a80f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetHill_right.png"
-dest_files=["res://.godot/imported/planetHill_right.png-ee3e28d50e9c2b3679a9c67f2dfc5cfc.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetHill_right.png"
+dest_files=["res://.godot/imported/planetHill_right.png-0368162cdbdcf70d2bcc2a96ab4a80f3.ctex"]
 
 [params]
 

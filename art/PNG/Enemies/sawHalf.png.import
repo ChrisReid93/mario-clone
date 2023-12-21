@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5i1qj425jctn"
-path="res://.godot/imported/sawHalf.png-3a6f25d1088923d39cc27ca4c8205007.ctex"
+path="res://.godot/imported/sawHalf.png-237e3d46aac6861b0bb46f25772dfc49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/sawHalf.png"
-dest_files=["res://.godot/imported/sawHalf.png-3a6f25d1088923d39cc27ca4c8205007.ctex"]
+source_file="res://Art/PNG/Enemies/sawHalf.png"
+dest_files=["res://.godot/imported/sawHalf.png-237e3d46aac6861b0bb46f25772dfc49.ctex"]
 
 [params]
 

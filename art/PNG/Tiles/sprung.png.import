@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2rmtoaqduky0"
-path="res://.godot/imported/sprung.png-4f32a8c672232c465125af60a0668ab8.ctex"
+path="res://.godot/imported/sprung.png-a70a247c9aca1407b8948a7c3e7bebc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/sprung.png"
-dest_files=["res://.godot/imported/sprung.png-4f32a8c672232c465125af60a0668ab8.ctex"]
+source_file="res://Art/PNG/Tiles/sprung.png"
+dest_files=["res://.godot/imported/sprung.png-a70a247c9aca1407b8948a7c3e7bebc8.ctex"]
 
 [params]
 

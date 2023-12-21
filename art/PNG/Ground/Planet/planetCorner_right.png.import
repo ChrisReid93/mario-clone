@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhp8a0rapvfjc"
-path="res://.godot/imported/planetCorner_right.png-e146b427f7ef19c6c5b2125ec8317ebf.ctex"
+path="res://.godot/imported/planetCorner_right.png-ea1ef68cd4a395a0ed34ef276573f5df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetCorner_right.png"
-dest_files=["res://.godot/imported/planetCorner_right.png-e146b427f7ef19c6c5b2125ec8317ebf.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetCorner_right.png"
+dest_files=["res://.godot/imported/planetCorner_right.png-ea1ef68cd4a395a0ed34ef276573f5df.ctex"]
 
 [params]
 

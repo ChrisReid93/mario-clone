@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da3x27g50hsih"
-path="res://.godot/imported/alienYellow_walk2.png-ee23a2ae3b112550fd7df6ec9deacc52.ctex"
+path="res://.godot/imported/alienYellow_walk2.png-c67bd92b9a00c2aebf717878d3371174.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/Variable sizes/Yellow/alienYellow_walk2.png"
-dest_files=["res://.godot/imported/alienYellow_walk2.png-ee23a2ae3b112550fd7df6ec9deacc52.ctex"]
+source_file="res://Art/PNG/Players/Variable sizes/Yellow/alienYellow_walk2.png"
+dest_files=["res://.godot/imported/alienYellow_walk2.png-c67bd92b9a00c2aebf717878d3371174.ctex"]
 
 [params]
 

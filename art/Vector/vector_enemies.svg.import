@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgo7hs61e23rh"
-path="res://.godot/imported/vector_enemies.svg-4e2d2326e6110dc55c3e4d45fdb9ed51.ctex"
+path="res://.godot/imported/vector_enemies.svg-6617e9ed34b47924b625533782c15063.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Vector/vector_enemies.svg"
-dest_files=["res://.godot/imported/vector_enemies.svg-4e2d2326e6110dc55c3e4d45fdb9ed51.ctex"]
+source_file="res://Art/Vector/vector_enemies.svg"
+dest_files=["res://.godot/imported/vector_enemies.svg-6617e9ed34b47924b625533782c15063.ctex"]
 
 [params]
 

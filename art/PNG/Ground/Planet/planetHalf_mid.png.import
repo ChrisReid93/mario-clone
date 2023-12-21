@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvt7mcw6n0dab"
-path="res://.godot/imported/planetHalf_mid.png-8248fe397d9ebe767ef5a26658a9e967.ctex"
+path="res://.godot/imported/planetHalf_mid.png-8a5619c80320e13b3d8405cf5523efa4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetHalf_mid.png"
-dest_files=["res://.godot/imported/planetHalf_mid.png-8248fe397d9ebe767ef5a26658a9e967.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetHalf_mid.png"
+dest_files=["res://.godot/imported/planetHalf_mid.png-8a5619c80320e13b3d8405cf5523efa4.ctex"]
 
 [params]
 

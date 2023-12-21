@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gp2kq0csdvt3"
-path="res://.godot/imported/dirtCliffAlt_left.png-f01c00c80ef476982de400f4a15786dc.ctex"
+path="res://.godot/imported/dirtCliffAlt_left.png-a5fe10f918c89e100e5b4bdec56303b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Dirt/dirtCliffAlt_left.png"
-dest_files=["res://.godot/imported/dirtCliffAlt_left.png-f01c00c80ef476982de400f4a15786dc.ctex"]
+source_file="res://Art/PNG/Ground/Dirt/dirtCliffAlt_left.png"
+dest_files=["res://.godot/imported/dirtCliffAlt_left.png-a5fe10f918c89e100e5b4bdec56303b9.ctex"]
 
 [params]
 

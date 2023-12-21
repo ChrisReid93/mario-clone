@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lkyadattoirc"
-path="res://.godot/imported/ladybug_fly.png-d18e83c132be8b2d441488cb05d6cb8b.ctex"
+path="res://.godot/imported/ladybug_fly.png-4038ad3cdc976b724f83a84a8fde386a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/ladybug_fly.png"
-dest_files=["res://.godot/imported/ladybug_fly.png-d18e83c132be8b2d441488cb05d6cb8b.ctex"]
+source_file="res://Art/PNG/Enemies/ladybug_fly.png"
+dest_files=["res://.godot/imported/ladybug_fly.png-4038ad3cdc976b724f83a84a8fde386a.ctex"]
 
 [params]
 

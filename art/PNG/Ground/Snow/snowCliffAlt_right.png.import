@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tg4dxfshl0ec"
-path="res://.godot/imported/snowCliffAlt_right.png-139776a58f5da7bc98d6eb8015b7187c.ctex"
+path="res://.godot/imported/snowCliffAlt_right.png-36dea1bd45486201b14942d1fd9f8fe3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Snow/snowCliffAlt_right.png"
-dest_files=["res://.godot/imported/snowCliffAlt_right.png-139776a58f5da7bc98d6eb8015b7187c.ctex"]
+source_file="res://Art/PNG/Ground/Snow/snowCliffAlt_right.png"
+dest_files=["res://.godot/imported/snowCliffAlt_right.png-36dea1bd45486201b14942d1fd9f8fe3.ctex"]
 
 [params]
 

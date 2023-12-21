@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b41wfms3rvamf"
-path="res://.godot/imported/hudJewel_red.png-71b81bc1d649aa10208fe17b46119bda.ctex"
+path="res://.godot/imported/hudJewel_red.png-20fe4c5cda035d5d372d7a8edadfbc74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/HUD/hudJewel_red.png"
-dest_files=["res://.godot/imported/hudJewel_red.png-71b81bc1d649aa10208fe17b46119bda.ctex"]
+source_file="res://Art/PNG/HUD/hudJewel_red.png"
+dest_files=["res://.godot/imported/hudJewel_red.png-20fe4c5cda035d5d372d7a8edadfbc74.ctex"]
 
 [params]
 

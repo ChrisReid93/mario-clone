@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba7j8twkm2hwd"
-path="res://.godot/imported/slimeBlock_dead.png-e1f06d356d740320be3d24ff72c0f09f.ctex"
+path="res://.godot/imported/slimeBlock_dead.png-2be662a692e6db0b61587ea2f7aaa49b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/slimeBlock_dead.png"
-dest_files=["res://.godot/imported/slimeBlock_dead.png-e1f06d356d740320be3d24ff72c0f09f.ctex"]
+source_file="res://Art/PNG/Enemies/slimeBlock_dead.png"
+dest_files=["res://.godot/imported/slimeBlock_dead.png-2be662a692e6db0b61587ea2f7aaa49b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw0b4f1mjmesn"
-path="res://.godot/imported/planetCenter_rounded.png-0d13af3eb0225c94f45d9db8d3f80b95.ctex"
+path="res://.godot/imported/planetCenter_rounded.png-6f206f474b496481a623e88e0b8d545d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetCenter_rounded.png"
-dest_files=["res://.godot/imported/planetCenter_rounded.png-0d13af3eb0225c94f45d9db8d3f80b95.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetCenter_rounded.png"
+dest_files=["res://.godot/imported/planetCenter_rounded.png-6f206f474b496481a623e88e0b8d545d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dllyjxh08142e"
-path="res://.godot/imported/sign.png-778a6b98387a1c1f6b29ce526960b42d.ctex"
+path="res://.godot/imported/sign.png-c5dc1240e48b89bc75dafd07725546c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/sign.png"
-dest_files=["res://.godot/imported/sign.png-778a6b98387a1c1f6b29ce526960b42d.ctex"]
+source_file="res://Art/PNG/Tiles/sign.png"
+dest_files=["res://.godot/imported/sign.png-c5dc1240e48b89bc75dafd07725546c1.ctex"]
 
 [params]
 

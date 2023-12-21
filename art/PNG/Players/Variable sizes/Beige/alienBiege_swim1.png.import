@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxnk64r07folg"
-path="res://.godot/imported/alienBiege_swim1.png-33fdc72fb67efbf7e0d2cb2435a8bf14.ctex"
+path="res://.godot/imported/alienBiege_swim1.png-9b577b9c91daedb141e1b1de137ee17d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Players/Variable sizes/Beige/alienBiege_swim1.png"
-dest_files=["res://.godot/imported/alienBiege_swim1.png-33fdc72fb67efbf7e0d2cb2435a8bf14.ctex"]
+source_file="res://Art/PNG/Players/Variable sizes/Beige/alienBiege_swim1.png"
+dest_files=["res://.godot/imported/alienBiege_swim1.png-9b577b9c91daedb141e1b1de137ee17d.ctex"]
 
 [params]
 

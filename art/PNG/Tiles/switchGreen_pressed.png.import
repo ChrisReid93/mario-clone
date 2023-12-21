@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh7qucfm3eo7y"
-path="res://.godot/imported/switchGreen_pressed.png-3a1aa20548a09c7c689db0227be012aa.ctex"
+path="res://.godot/imported/switchGreen_pressed.png-5e0b721b406b113a764ccb4893e1f591.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/switchGreen_pressed.png"
-dest_files=["res://.godot/imported/switchGreen_pressed.png-3a1aa20548a09c7c689db0227be012aa.ctex"]
+source_file="res://Art/PNG/Tiles/switchGreen_pressed.png"
+dest_files=["res://.godot/imported/switchGreen_pressed.png-5e0b721b406b113a764ccb4893e1f591.ctex"]
 
 [params]
 

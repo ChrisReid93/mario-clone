@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwf7kbomamym0"
-path="res://.godot/imported/stoneCenter_rounded.png-4b85d6d976546916d2ea08f8fad29d61.ctex"
+path="res://.godot/imported/stoneCenter_rounded.png-66302521c2338a26d197c75924611d67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Stone/stoneCenter_rounded.png"
-dest_files=["res://.godot/imported/stoneCenter_rounded.png-4b85d6d976546916d2ea08f8fad29d61.ctex"]
+source_file="res://Art/PNG/Ground/Stone/stoneCenter_rounded.png"
+dest_files=["res://.godot/imported/stoneCenter_rounded.png-66302521c2338a26d197c75924611d67.ctex"]
 
 [params]
 

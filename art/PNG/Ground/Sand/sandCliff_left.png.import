@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn4a3mw7o6y4q"
-path="res://.godot/imported/sandCliff_left.png-b0b5ac91960aa3e343f68019ac75feb8.ctex"
+path="res://.godot/imported/sandCliff_left.png-4f95070fa28bd8ca8b76ffb0caf11821.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Sand/sandCliff_left.png"
-dest_files=["res://.godot/imported/sandCliff_left.png-b0b5ac91960aa3e343f68019ac75feb8.ctex"]
+source_file="res://Art/PNG/Ground/Sand/sandCliff_left.png"
+dest_files=["res://.godot/imported/sandCliff_left.png-4f95070fa28bd8ca8b76ffb0caf11821.ctex"]
 
 [params]
 

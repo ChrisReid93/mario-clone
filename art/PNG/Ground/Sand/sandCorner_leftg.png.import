@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db5x4hevubqvn"
-path="res://.godot/imported/sandCorner_leftg.png-09e7d83ba8a9613c64d11f7fcc9d4199.ctex"
+path="res://.godot/imported/sandCorner_leftg.png-f95def4c4bc26bc33e076a3deaab5581.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Sand/sandCorner_leftg.png"
-dest_files=["res://.godot/imported/sandCorner_leftg.png-09e7d83ba8a9613c64d11f7fcc9d4199.ctex"]
+source_file="res://Art/PNG/Ground/Sand/sandCorner_leftg.png"
+dest_files=["res://.godot/imported/sandCorner_leftg.png-f95def4c4bc26bc33e076a3deaab5581.ctex"]
 
 [params]
 

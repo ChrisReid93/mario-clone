@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f1muurstiedo"
-path="res://.godot/imported/sandHill_left.png-bb71712f3e3ad53723833c42a68b1583.ctex"
+path="res://.godot/imported/sandHill_left.png-946f79a4e4b9aaae1325f25355aabb57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Sand/sandHill_left.png"
-dest_files=["res://.godot/imported/sandHill_left.png-bb71712f3e3ad53723833c42a68b1583.ctex"]
+source_file="res://Art/PNG/Ground/Sand/sandHill_left.png"
+dest_files=["res://.godot/imported/sandHill_left.png-946f79a4e4b9aaae1325f25355aabb57.ctex"]
 
 [params]
 

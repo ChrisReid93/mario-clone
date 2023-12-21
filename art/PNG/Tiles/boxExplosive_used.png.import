@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuekkox4ycj0l"
-path="res://.godot/imported/boxExplosive_used.png-df1d966c8c38bb6dd1c0483b8082be6a.ctex"
+path="res://.godot/imported/boxExplosive_used.png-dd289a7a67252b18081ac8c28f41b940.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/boxExplosive_used.png"
-dest_files=["res://.godot/imported/boxExplosive_used.png-df1d966c8c38bb6dd1c0483b8082be6a.ctex"]
+source_file="res://Art/PNG/Tiles/boxExplosive_used.png"
+dest_files=["res://.godot/imported/boxExplosive_used.png-dd289a7a67252b18081ac8c28f41b940.ctex"]
 
 [params]
 

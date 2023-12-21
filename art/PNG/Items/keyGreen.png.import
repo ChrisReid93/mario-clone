@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw56p40oprlqx"
-path="res://.godot/imported/keyGreen.png-4920c02211a54d6b0ab983f6453d2a24.ctex"
+path="res://.godot/imported/keyGreen.png-1c76f55f23300711542ccdc897af69e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Items/keyGreen.png"
-dest_files=["res://.godot/imported/keyGreen.png-4920c02211a54d6b0ab983f6453d2a24.ctex"]
+source_file="res://Art/PNG/Items/keyGreen.png"
+dest_files=["res://.godot/imported/keyGreen.png-1c76f55f23300711542ccdc897af69e2.ctex"]
 
 [params]
 

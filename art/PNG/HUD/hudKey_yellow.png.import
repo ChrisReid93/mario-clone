@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbreboqicus76"
-path="res://.godot/imported/hudKey_yellow.png-e003ae484b92dd58d11fe7082a0ceb18.ctex"
+path="res://.godot/imported/hudKey_yellow.png-5bb30cb72680b9a2266d9b1f0dae394e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/HUD/hudKey_yellow.png"
-dest_files=["res://.godot/imported/hudKey_yellow.png-e003ae484b92dd58d11fe7082a0ceb18.ctex"]
+source_file="res://Art/PNG/HUD/hudKey_yellow.png"
+dest_files=["res://.godot/imported/hudKey_yellow.png-5bb30cb72680b9a2266d9b1f0dae394e.ctex"]
 
 [params]
 

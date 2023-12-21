@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drjlk3ysl17do"
-path="res://.godot/imported/planetCliffAlt_right.png-65560f317342fea62c844cc3f3515a0a.ctex"
+path="res://.godot/imported/planetCliffAlt_right.png-dd0b3df997b7be15f96a57ce6dda76f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Planet/planetCliffAlt_right.png"
-dest_files=["res://.godot/imported/planetCliffAlt_right.png-65560f317342fea62c844cc3f3515a0a.ctex"]
+source_file="res://Art/PNG/Ground/Planet/planetCliffAlt_right.png"
+dest_files=["res://.godot/imported/planetCliffAlt_right.png-dd0b3df997b7be15f96a57ce6dda76f8.ctex"]
 
 [params]
 

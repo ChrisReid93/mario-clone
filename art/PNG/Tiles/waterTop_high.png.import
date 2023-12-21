@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn2x8sy5me2c3"
-path="res://.godot/imported/waterTop_high.png-0f70df65151810bd5605ea35f426156c.ctex"
+path="res://.godot/imported/waterTop_high.png-58f241ee262ef01022d7182eafa124db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/waterTop_high.png"
-dest_files=["res://.godot/imported/waterTop_high.png-0f70df65151810bd5605ea35f426156c.ctex"]
+source_file="res://Art/PNG/Tiles/waterTop_high.png"
+dest_files=["res://.godot/imported/waterTop_high.png-58f241ee262ef01022d7182eafa124db.ctex"]
 
 [params]
 

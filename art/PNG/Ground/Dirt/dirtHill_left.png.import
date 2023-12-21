@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d22rju5jftam1"
-path="res://.godot/imported/dirtHill_left.png-bcb07c9e6e7ca36002d390013a44ed75.ctex"
+path="res://.godot/imported/dirtHill_left.png-8a6760484b7d3bd5dbbc1ddeb59fd98a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Dirt/dirtHill_left.png"
-dest_files=["res://.godot/imported/dirtHill_left.png-bcb07c9e6e7ca36002d390013a44ed75.ctex"]
+source_file="res://Art/PNG/Ground/Dirt/dirtHill_left.png"
+dest_files=["res://.godot/imported/dirtHill_left.png-8a6760484b7d3bd5dbbc1ddeb59fd98a.ctex"]
 
 [params]
 

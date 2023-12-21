@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br1ihfut2yybq"
-path="res://.godot/imported/saw_move.png-1f6e9b5610cfa6379c0240da3508a5d3.ctex"
+path="res://.godot/imported/saw_move.png-67dc35b34c3aad4f073464178557d4a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/saw_move.png"
-dest_files=["res://.godot/imported/saw_move.png-1f6e9b5610cfa6379c0240da3508a5d3.ctex"]
+source_file="res://Art/PNG/Enemies/saw_move.png"
+dest_files=["res://.godot/imported/saw_move.png-67dc35b34c3aad4f073464178557d4a8.ctex"]
 
 [params]
 

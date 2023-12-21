@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxy1np6qh0ty6"
-path="res://.godot/imported/stoneHalf_mid.png-8c57d06d3cd6e4a6503d5997bfaa83c1.ctex"
+path="res://.godot/imported/stoneHalf_mid.png-7d9d89f258881ecfe69e4534e41e0f19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Stone/stoneHalf_mid.png"
-dest_files=["res://.godot/imported/stoneHalf_mid.png-8c57d06d3cd6e4a6503d5997bfaa83c1.ctex"]
+source_file="res://Art/PNG/Ground/Stone/stoneHalf_mid.png"
+dest_files=["res://.godot/imported/stoneHalf_mid.png-7d9d89f258881ecfe69e4534e41e0f19.ctex"]
 
 [params]
 

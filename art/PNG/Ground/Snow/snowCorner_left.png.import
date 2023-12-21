@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bade5elo47p0r"
-path="res://.godot/imported/snowCorner_left.png-5bea89f0f3f28a95b1b0482de9d40f41.ctex"
+path="res://.godot/imported/snowCorner_left.png-9fe33e919b8105ea73d9c2415ae2cb93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Ground/Snow/snowCorner_left.png"
-dest_files=["res://.godot/imported/snowCorner_left.png-5bea89f0f3f28a95b1b0482de9d40f41.ctex"]
+source_file="res://Art/PNG/Ground/Snow/snowCorner_left.png"
+dest_files=["res://.godot/imported/snowCorner_left.png-9fe33e919b8105ea73d9c2415ae2cb93.ctex"]
 
 [params]
 

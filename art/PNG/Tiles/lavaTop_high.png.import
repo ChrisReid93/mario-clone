@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ooyitklcldwx"
-path="res://.godot/imported/lavaTop_high.png-0f49a32b61fe16f5c5f7051d30a18629.ctex"
+path="res://.godot/imported/lavaTop_high.png-5a0363b6b9879b8e75dc1c5121012409.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Tiles/lavaTop_high.png"
-dest_files=["res://.godot/imported/lavaTop_high.png-0f49a32b61fe16f5c5f7051d30a18629.ctex"]
+source_file="res://Art/PNG/Tiles/lavaTop_high.png"
+dest_files=["res://.godot/imported/lavaTop_high.png-5a0363b6b9879b8e75dc1c5121012409.ctex"]
 
 [params]
 

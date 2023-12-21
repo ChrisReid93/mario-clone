@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba1bxen0p2uaj"
-path="res://.godot/imported/saw.png-96eeb51cb7853265ccdcd74a4ebced20.ctex"
+path="res://.godot/imported/saw.png-8aed8fcff1f1ea22269095b13510dafd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PNG/Enemies/saw.png"
-dest_files=["res://.godot/imported/saw.png-96eeb51cb7853265ccdcd74a4ebced20.ctex"]
+source_file="res://Art/PNG/Enemies/saw.png"
+dest_files=["res://.godot/imported/saw.png-8aed8fcff1f1ea22269095b13510dafd.ctex"]
 
 [params]
 
