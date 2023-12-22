@@ -1,6 +1,5 @@
-res://player.tscn
-res://Scenes/player.tscn
-res://Scripts/player.gd
-res://Scenes/world.tscn
 res://Scenes/main.tscn
-res://Scripts/main.gd
+res://Scenes/world.tscn
+res://Scenes/player.tscn
+res://Scenes/background_music.tscn
+res://Scripts/player.gd

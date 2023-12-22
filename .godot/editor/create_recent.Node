@@ -1,3 +1,8 @@
+AudioStreamPlayer
+AudioStreamPlayer2D
+ParallaxLayer
+ParallaxBackground
+TileMap
 Timer
 CollisionShape2D
 AnimatedSprite2D
@@ -11,6 +16,5 @@ ColorRect
 Button
 Sprite2D
 RigidBody2D
-TileMap
 Area2D
 Node
