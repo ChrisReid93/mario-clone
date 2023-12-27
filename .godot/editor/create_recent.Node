@@ -1,14 +1,15 @@
+Area2D
+CollisionShape2D
+AnimationPlayer
+AnimatedSprite2D
+CharacterBody2D
 AudioStreamPlayer
 AudioStreamPlayer2D
 ParallaxLayer
 ParallaxBackground
 TileMap
 Timer
-CollisionShape2D
-AnimatedSprite2D
-AnimationPlayer
 Camera2D
-CharacterBody2D
 Node2D
 Panel
 StaticBody2D
@@ -16,5 +17,4 @@ ColorRect
 Button
 Sprite2D
 RigidBody2D
-Area2D
 Node

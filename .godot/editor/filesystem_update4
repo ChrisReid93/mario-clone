@@ -1,5 +1,5 @@
 res://Scenes/main.tscn
 res://Scenes/world.tscn
 res://Scenes/player.tscn
-res://Scenes/background_music.tscn
-res://Scripts/player.gd
+res://Scenes/goomba.tscn
+res://Scripts/Goomba.gd

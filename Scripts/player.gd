@@ -15,7 +15,7 @@ var can_jump = false
 func _physics_process(delta):
 	# Add the gravity.
 	if not is_on_floor():
-		velocity.y += gravity * delta
+		velocity.y += (gravity*1.2) * delta
 		
 	# Prevent player from moving left off screen
 	if position.x < CHAR_WIDTH:
@@ -80,3 +80,8 @@ func jump():
 
 func _on_coyote_timer_timeout():
 	can_jump = false
+
+
+func _on_player_hitbox_body_entered(body):
+	if body.name == "Goomba":
+		velocity.y = JUMP_VELOCITY
