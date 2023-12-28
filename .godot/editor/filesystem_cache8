@@ -1,6 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703704523
-icon.svg::CompressedTexture2D::889462093357741465::1700152835::1700152843::1::::<><>::
+::res://::1703781902
 README.md::TextFile::-1::1703041968::0::1::::<><>::
 ::res://Art/::1703194036
 ::res://Art/Background/::1703186364
@@ -332,13 +331,17 @@ Idle.png::CompressedTexture2D::6627905386091985581::1703186365::1703186365::1:::
 Jump (28x28).png::CompressedTexture2D::6558849070589451297::1703186365::1703186365::1::::<><>::
 ::res://Music/::1703211447
 Test Song for Godot Looped.wav::AudioStreamWAV::5123738568097546521::1703206372::1703211447::1::::<><>::
-::res://Scenes/::1703636074
+::res://Scenes/::1703781779
 background_music.tscn::PackedScene::8994797754786352903::1703610404::0::1::::<><>::
-goomba.tscn::PackedScene::1461181975038577051::1703636068::0::1::::<><>::res://Scripts/Goomba.gd<>uid://cgavereqe2824::::res://Art/Enemies/AngryPig/Walk (36x30).png<>uid://cny23c88wny35::::res://Art/Enemies/AngryPig/Hit 1 (36x30).png<>uid://1vyo2abn6odl::::res://Art/Main Characters/Desappearing (96x96).png
-main.tscn::PackedScene::90925641351591850::1703636068::0::1::::<><>::res://Scripts/main.gd
-player.tscn::PackedScene::91295546372195793::1703636074::0::1::::<><>::res://Scripts/player.gd<>uid://bk5wrtkpx2q0n::::res://Art/Main Characters/Ninja Frog/Fall (32x32).png<>uid://bhesxp6blgqui::::res://Art/Main Characters/Ninja Frog/Idle (32x32).png<>uid://ja7ywthisi2c::::res://Art/Main Characters/Ninja Frog/Double Jump (32x32).png<>uid://bwl45mbclq0g::::res://Art/Main Characters/Ninja Frog/Jump (32x32).png<>uid://b5by2rmywwlr1::::res://Art/Main Characters/Ninja Frog/Run (32x32).png
-world.tscn::PackedScene::8688117889470911829::1703636068::0::1::::<><>::uid://d1ffafvhgjltn::::res://Scenes/background_music.tscn<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://ce88hw3ee8djt::::res://Music/Test Song for Godot Looped.wav<>uid://dx7g7icyjwcfh::::res://Art/Background/Pink.png<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn
-::res://Scripts/::1703629857
-Goomba.gd::GDScript::-1::1703628093::0::1::::<>CharacterBody2D<>::
-main.gd::GDScript::-1::1703186365::0::1::::<>Node2D<>::
-player.gd::GDScript::-1::1703629857::0::1::::<>CharacterBody2D<>::
+coin.tscn::PackedScene::6803160004955577803::1703779027::0::1::::<><>::
+flyer.tscn::PackedScene::6448484663967444057::1703781582::0::1::::<><>::res://Scripts/Flyer.gd<>uid://lslm35j3d14f::::res://Art/Enemies/BlueBird/Hit (32x32).png<>uid://1vyo2abn6odl::::res://Art/Main Characters/Desappearing (96x96).png<>uid://dsy1gmmk2v2kg::::res://Art/Enemies/BlueBird/Flying (32x32).png
+goomba.tscn::PackedScene::1461181975038577051::1703781779::0::1::::<><>::res://Scripts/Goomba.gd<>uid://cgavereqe2824::::res://Art/Enemies/AngryPig/Walk (36x30).png<>uid://lslm35j3d14f::::res://Art/Enemies/BlueBird/Hit (32x32).png<>uid://1vyo2abn6odl::::res://Art/Main Characters/Desappearing (96x96).png
+main.tscn::PackedScene::90925641351591850::1703781582::0::1::::<><>::res://Scripts/main.gd
+player.tscn::PackedScene::91295546372195793::1703781582::0::1::::<><>::res://Scripts/player.gd<>uid://bk5wrtkpx2q0n::::res://Art/Main Characters/Ninja Frog/Fall (32x32).png<>uid://bhesxp6blgqui::::res://Art/Main Characters/Ninja Frog/Idle (32x32).png<>uid://ja7ywthisi2c::::res://Art/Main Characters/Ninja Frog/Double Jump (32x32).png<>uid://bwl45mbclq0g::::res://Art/Main Characters/Ninja Frog/Jump (32x32).png<>uid://b5by2rmywwlr1::::res://Art/Main Characters/Ninja Frog/Run (32x32).png<>uid://bsx506pqd6532::::res://Art/Main Characters/Ninja Frog/Hit (32x32).png
+world.tscn::PackedScene::8688117889470911829::1703781582::0::1::::<><>::uid://d1ffafvhgjltn::::res://Scenes/background_music.tscn<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://ce88hw3ee8djt::::res://Music/Test Song for Godot Looped.wav<>uid://dx7g7icyjwcfh::::res://Art/Background/Pink.png<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn
+::res://Scripts/::1703781888
+Flyer.gd::GDScript::-1::1703781577::0::1::::<>CharacterBody2D<>::
+Game.gd::GDScript::-1::1703706016::0::1::::<>Node<>::
+Goomba.gd::GDScript::-1::1703781888::0::1::::<>CharacterBody2D<>::
+main.gd::GDScript::-1::1703705663::0::1::::<>Node2D<>::
+player.gd::GDScript::-1::1703778259::0::1::::<>CharacterBody2D<>::

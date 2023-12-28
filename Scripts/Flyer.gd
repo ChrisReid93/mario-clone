@@ -1,7 +1,7 @@
 extends CharacterBody2D
 
 # Move enemy constantly to left
-const SPEED = -75.0
+const SPEED = -100.0
 
 # Get the gravity from the project settings to be synced with RigidBody nodes.
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
@@ -11,7 +11,7 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 func _physics_process(delta):
 	# Gravity for Goomba
-	velocity.y += gravity * delta
+#	velocity.y += gravity * delta
 	# Check if animation is not "Death". If so, play "Walk" animation.
 	if anim.current_animation != "Death":
 		anim.play("Walk")
@@ -41,9 +41,6 @@ func death():
 	anim.play("Death")
 	await anim.animation_finished
 	self.queue_free()
-
-
-
 
 
 

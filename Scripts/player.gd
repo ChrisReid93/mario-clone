@@ -60,14 +60,21 @@ func _physics_process(delta):
 	if direction:
 		velocity.x = direction * SPEED
 		# Play run animation if player on ground
-		if velocity.y == 0:
+		if velocity.y == 0 and anim.current_animation != "Hurt":
 			anim.play("Run")
 
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
 		# Check if player is on ground. If so, play "Idle" animation.
-		if velocity.y == 0:
+		if velocity.y == 0 and anim.current_animation != "Hurt":
 			anim.play("Idle")
+	
+	# Player death based on health or falling. Delete player, set scene to Main Menu, and reset all scores.
+	if Game.playerHP <= 0 or position.y > 384:
+		queue_free()
+		Game.playerHP = 3
+		Game.coins = 0
+		get_tree().change_scene_to_file("res://Scenes/main.tscn")
 
 	move_and_slide()
 
@@ -85,3 +92,12 @@ func _on_coyote_timer_timeout():
 func _on_player_hitbox_body_entered(body):
 	if body.name == "Goomba":
 		velocity.y = JUMP_VELOCITY
+
+
+func _on_player_hitbox_area_entered(area):
+	if area.name == "PlayerStomp":
+		velocity.y = JUMP_VELOCITY
+	elif area.name == "PlayerHit":
+		# Have player become temporarily invincible using AnimationPlayer, play specific animation, and decrement HP.
+		anim.play("Hurt")
+		Game.playerHP -= 1
