@@ -1,1 +1,10 @@
 res://Scenes/level1.tscn
+res://Scenes/main_menu_background.tscn
+res://Scenes/main.tscn
+res://Scenes/level2.tscn
+res://Scenes/level3.tscn
+res://Scenes/hud.tscn
+res://Scenes/player.tscn
+res://Autoloads/MusicController.tscn
+res://Scenes/game_over.tscn
+res://Scripts/main_menu_background.gd

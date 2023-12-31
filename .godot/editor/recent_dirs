@@ -1,5 +1,7 @@
-res://Scenes
+res://Art/Enemies/BlueBird
+res://Art/Enemies/AngryPig
 res://Scripts
+res://Scenes
 res://Sound Effects
 res://Autoloads
 res://Art/Items/Fruits
@@ -7,8 +9,6 @@ res://Art/Items/Checkpoints/End
 res://Art/Background
 res://Music
 res://Art/Items/Checkpoints/Checkpoint
-res://Art/Enemies/AngryPig
-res://Art/Enemies/BlueBird
 res://Art/Enemies/Bat
 res://Art/Main Characters/Ninja Frog
 C:/Users/Chris's PC/OneDrive/Documents/Godot Projects/mario-clone/Scripts
