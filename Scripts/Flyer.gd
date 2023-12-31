@@ -23,11 +23,6 @@ func _physics_process(delta):
 func _on_player_stomp_area_entered(area):
 	if area.name == "PlayerHitbox":
 		death()
-
-# Create a function to check if player hits enemy body. If so, remove 1 HP from player.
-func _on_player_hit_body_entered(body):
-	if body.name == "Player":
-		Game.playerHP -= 1
 		
 # Check if player enters detection radius. If so, starting moving to left.
 func _on_player_detection_body_entered(body):
@@ -35,9 +30,10 @@ func _on_player_detection_body_entered(body):
 		velocity.x = SPEED
 		
 # Create death function
-# Stop Goomba movement, play death animation, wait until the animation is done, and delete (i.e. "queue_free") that enemy instance.
+# Stop Flyer movement, play death animation, wait until the animation is done, and delete (i.e. "queue_free") that enemy instance.
 func death():
 	velocity.x = 0
+	Game.score += 5
 	anim.play("Death")
 	await anim.animation_finished
 	self.queue_free()

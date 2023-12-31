@@ -1,6 +1,12 @@
-res://Scripts
-res://Art/Items/Checkpoints/Checkpoint
 res://Scenes
+res://Scripts
+res://Sound Effects
+res://Autoloads
+res://Art/Items/Fruits
+res://Art/Items/Checkpoints/End
+res://Art/Background
+res://Music
+res://Art/Items/Checkpoints/Checkpoint
 res://Art/Enemies/AngryPig
 res://Art/Enemies/BlueBird
 res://Art/Enemies/Bat

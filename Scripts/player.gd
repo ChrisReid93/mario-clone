@@ -28,15 +28,15 @@ func _physics_process(delta):
 	elif can_jump == true and $CoyoteTimer.is_stopped():
 		$CoyoteTimer.start()
 
-	# Handle falling
-	if not is_on_floor():
-		if velocity.y > 0:
-			anim.play("Fall")
-
 	# Handle Jump.
 	if can_jump == true:
 		if Input.is_action_just_pressed("jump"):
 			jump()
+	
+	# Handle falling
+	if not is_on_floor():
+		if velocity.y > 0 and anim.current_animation != "Hurt":
+			anim.play("Fall")
 			
 	# Create jump buffering.
 	if can_jump == false:
@@ -69,35 +69,51 @@ func _physics_process(delta):
 		if velocity.y == 0 and anim.current_animation != "Hurt":
 			anim.play("Idle")
 	
-	# Player death based on health or falling. Delete player, set scene to Main Menu, and reset all scores.
-	if Game.playerHP <= 0 or position.y > 384:
-		queue_free()
+	# Player death based on health. Finish playing animation, reset scores, queue_free player and go to Game Over screen.
+	if Game.playerHP <= 0:
+		MusicController.stop_music()
+		anim.play("Hurt")
+		await anim.animation_finished
 		Game.playerHP = 3
-		Game.coins = 0
-		get_tree().change_scene_to_file("res://Scenes/main.tscn")
-
+		Game.score = 0
+		queue_free()
+		get_tree().change_scene_to_file("res://Scenes/game_over.tscn")
+		
+	# Player death from falling. Reset scores, queue_free player and go to Game Over screen.
+	if position.y > 384:
+		MusicController.stop_music()
+		Game.playerHP = 3
+		Game.score = 0
+		queue_free()
+		get_tree().change_scene_to_file("res://Scenes/game_over.tscn")
+		
+			
 	move_and_slide()
 
 # Create jump function
 func jump():
 	velocity.y = JUMP_VELOCITY
-	anim.play("Jump")
 	can_jump = false
+	if anim.current_animation != "Hurt":
+		anim.play("Jump")
 
 
 func _on_coyote_timer_timeout():
 	can_jump = false
 
 
-func _on_player_hitbox_body_entered(body):
-	if body.name == "Goomba":
-		velocity.y = JUMP_VELOCITY
-
-
 func _on_player_hitbox_area_entered(area):
 	if area.name == "PlayerStomp":
 		velocity.y = JUMP_VELOCITY
+		$Sounds/JumpSound.play()
+		
 	elif area.name == "PlayerHit":
 		# Have player become temporarily invincible using AnimationPlayer, play specific animation, and decrement HP.
 		anim.play("Hurt")
 		Game.playerHP -= 1
+		$Sounds/HurtSound.play()
+
+
+func _on_queuefree_enemy_body_entered(body):
+	if body.name == "Goomba" or "Flyer":
+		body.queue_free()

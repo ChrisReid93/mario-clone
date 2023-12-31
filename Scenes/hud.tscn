@@ -1,0 +1,74 @@
+[gd_scene load_steps=4 format=3 uid="uid://c6nj7qhbiv1xv"]
+
+[sub_resource type="GDScript" id="GDScript_l51mr"]
+script/source = "extends Label
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	# For created Label, make the text dynamic by showing the \"health\" variable for the Player node, converted to a string.
+	text = \"HP: \" + str(Game.playerHP)
+"
+
+[sub_resource type="GDScript" id="GDScript_3wrwl"]
+script/source = "extends Label
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	# Show the player's score
+	text = \"Score: \" + str(Game.score)
+"
+
+[sub_resource type="GDScript" id="GDScript_xgl7q"]
+script/source = "extends Label
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	# Show the time left in the game, counting down from 300.
+	text = \"Time: \" + str(int(Game.score_timer.time_left))
+"
+
+[node name="HUD" type="CanvasLayer"]
+
+[node name="HPLabel" type="Label" parent="."]
+offset_left = 12.0
+offset_top = -1.0
+offset_right = 138.0
+offset_bottom = 69.0
+theme_override_font_sizes/font_size = 48
+text = "HP: "
+script = SubResource("GDScript_l51mr")
+
+[node name="ScoreLabel" type="Label" parent="."]
+offset_left = 13.0
+offset_top = 49.0
+offset_right = 166.0
+offset_bottom = 119.0
+theme_override_font_sizes/font_size = 48
+text = "Score: "
+script = SubResource("GDScript_3wrwl")
+
+[node name="TimeLabel" type="Label" parent="."]
+offset_left = 15.0
+offset_top = 111.0
+offset_right = 144.0
+offset_bottom = 162.0
+text = "Time: "
+script = SubResource("GDScript_xgl7q")

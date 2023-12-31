@@ -1,6 +1,6 @@
 [gd_scene load_steps=34 format=3 uid="uid://u22poofr0fl0"]
 
-[ext_resource type="Script" path="res://Scripts/Goomba.gd" id="1_avgft"]
+[ext_resource type="Script" path="res://Scripts/goomba.gd" id="1_dhv78"]
 [ext_resource type="Texture2D" uid="uid://cgavereqe2824" path="res://Art/Enemies/AngryPig/Walk (36x30).png" id="2_atebn"]
 [ext_resource type="Texture2D" uid="uid://cny23c88wny35" path="res://Art/Enemies/AngryPig/Hit 1 (36x30).png" id="2_usm1s"]
 [ext_resource type="Texture2D" uid="uid://1vyo2abn6odl" path="res://Art/Main Characters/Desappearing (96x96).png" id="3_en3i7"]
@@ -295,11 +295,11 @@ height = 24.0
 size = Vector2(29.25, 16.5625)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_msxak"]
-size = Vector2(20, 373)
+size = Vector2(16, 654)
 
 [node name="Goomba" type="CharacterBody2D"]
 collision_layer = 4
-script = ExtResource("1_avgft")
+script = ExtResource("1_dhv78")
 
 [node name="GoombaBody" type="CollisionShape2D" parent="."]
 position = Vector2(0, 5)
@@ -342,7 +342,7 @@ collision_layer = 16
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="PlayerDetection"]
-position = Vector2(-342, -82)
+position = Vector2(-344, -28)
 shape = SubResource("RectangleShape2D_msxak")
 
 [connection signal="area_entered" from="PlayerStomp" to="." method="_on_player_stomp_area_entered"]

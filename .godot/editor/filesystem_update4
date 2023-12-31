@@ -1,12 +1,1 @@
-res://Scenes/main.tscn
-res://Scripts/Goomba.gd
-res://Scenes/world.tscn
-res://Scenes/player.tscn
-res://Scenes/goomba.tscn
-res://Scenes/flyer.tscn
-res://Scripts/player.gd
-res://Scripts/world.gd
-res://Scripts/Flyer.gd
-res://Scripts/Game.gd
-res://Scenes/door.tscn
-res://Scripts/door.gd
+res://Scenes/level1.tscn
