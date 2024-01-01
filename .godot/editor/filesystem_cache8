@@ -1,6 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1704135077
-export_presets.cfg::TextFile::-1::1704134281::0::1::::<><>::
+::res://::1704141204
+export_presets.cfg::TextFile::-1::1704138811::0::1::::<><>::
 README.md::TextFile::-1::1703041968::0::1::::<><>::
 ::res://Art/::1704132605
 logo-color.png::CompressedTexture2D::6390845692235169020::1704134801::1704132605::1::::<><>::
@@ -340,24 +340,24 @@ MusicController.gd::GDScript::-1::1704131180::0::1::::<>Node<>::
 MusicController.tscn::PackedScene::6835662058214067757::1704134368::0::1::::<><>::res://Autoloads/MusicController.gd
 ::res://Music/::1704128742
 Level 1 Background Music.wav::AudioStreamWAV::3567058819312543362::1704128301::1704128604::1::::<><>::
-Level 2 Background Music.wav::AudioStreamWAV::5058556847651512687::1704128549::1704128742::1::::<><>::
+Level 2 Background Music.wav::AudioStreamWAV::5058556847651512687::1704141294::1704141296::1::::<><>::
 Level 3 Background Music.wav::AudioStreamWAV::8271485266971448539::1704063601::1704064112::1::::<><>::
 Main Menu Song.wav::AudioStreamWAV::1451571944104652075::1704063327::1704064116::1::::<><>::
-::res://Scenes/::1704134909
+::res://Scenes/::1704141177
 background_music.tscn::PackedScene::8994797754786352903::1703610404::0::1::::<><>::
-coin.tscn::PackedScene::6803160004955577803::1704134368::0::1::::<><>::uid://bbyxdifqawynu::::res://Art/Items/Fruits/Apple.png<>res://Scripts/coin.gd<>uid://bgb75j2kgbp0m::::res://Sound Effects/Retro PickUp Coin 07.wav
+coin.tscn::PackedScene::6803160004955577803::1704134368::0::1::::<><>::uid://bbyxdifqawynu
 door.tscn::PackedScene::4133172999993448956::1703955935::0::1::::<><>::res://Scripts/door.gd<>uid://lef8uvpj6kus
 flyer.tscn::PackedScene::6448484663967444057::1704058690::0::1::::<><>::res://Scripts/flyer.gd<>uid://lslm35j3d14f
 game_over.tscn::PackedScene::6017171081619613210::1704134368::0::1::::<><>::res://Scripts/game_over.gd
-goomba.tscn::PackedScene::1461181975038577051::1704058689::0::1::::<><>::res://Scripts/goomba.gd<>uid://cgavereqe2824
-hud.tscn::PackedScene::6976136880552053523::1704134860::0::1::::<><>::
-level1.tscn::PackedScene::8688117889470911829::1704134860::0::1::::<><>::res://Scripts/level1.gd<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dx7g7icyjwcfh::::res://Art/Background/Pink.png<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn<>uid://by5e0xkbmniau::::res://Scenes/door.tscn
-level2.tscn::PackedScene::2479673809872732712::1704134860::0::1::::<><>::res://Scripts/level2.gd<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dm17efupph7un::::res://Art/Background/Gray.png<>uid://by5e0xkbmniau::::res://Scenes/door.tscn<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn
-level3.tscn::PackedScene::2495452112240807662::1704134860::0::1::::<><>::res://Scripts/level3.gd<>uid://0qvg3sjpnsi5::::res://Art/Background/Brown.png<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dgpd1a30sb4yj::::res://Scenes/trophy.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn
-main.tscn::PackedScene::90925641351591850::1704134368::0::1::::<><>::res://Scripts/main.gd<>uid://dria5wherse8c::::res://Scenes/main_menu_background.tscn
-main_menu_background.tscn::PackedScene::8369042155307985492::1704134368::0::1::::<><>::res://Scripts/main_menu_background.gd<>uid://dx7g7icyjwcfh::::res://Art/Background/Pink.png<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://q7h8itoj0nb8::::res://Art/Enemies/AngryPig/Pig Sprite.png<>uid://cipl5edevcma4::::res://Art/Enemies/BlueBird/BlueBird Sprite.png
-player.tscn::PackedScene::91295546372195793::1704134860::0::1::::<><>::res://Scripts/player.gd<>uid://c6nj7qhbiv1xv::::res://Scenes/hud.tscn<>uid://bk5wrtkpx2q0n::::res://Art/Main Characters/Ninja Frog/Fall (32x32).png<>uid://bhesxp6blgqui::::res://Art/Main Characters/Ninja Frog/Idle (32x32).png<>uid://ja7ywthisi2c::::res://Art/Main Characters/Ninja Frog/Double Jump (32x32).png<>uid://bwl45mbclq0g::::res://Art/Main Characters/Ninja Frog/Jump (32x32).png<>uid://b5by2rmywwlr1::::res://Art/Main Characters/Ninja Frog/Run (32x32).png<>uid://bsx506pqd6532::::res://Art/Main Characters/Ninja Frog/Hit (32x32).png<>uid://de2tynfubavgm::::res://Sound Effects/Retro Jump Classic 08.wav<>uid://brl8a2vu7i3r8::::res://Sound Effects/Retro Impact Punch Hurt 01.wav
-splash_screen.tscn::PackedScene::7277682555700881471::1704134909::0::1::::<><>::uid://cxb1ka3jekd3i::::res://Art/logo-color.png<>res://Scripts/splash_screen.gd
+goomba.tscn::PackedScene::1461181975038577051::1704141177::0::1::::<><>::res://Scripts/goomba.gd<>uid://cgavereqe2824::::res://Art/Enemies/AngryPig/Walk (36x30).png<>uid://cny23c88wny35::::res://Art/Enemies/AngryPig/Hit 1 (36x30).png<>uid://1vyo2abn6odl::::res://Art/Main Characters/Desappearing (96x96).png
+hud.tscn::PackedScene::6976136880552053523::1704141177::0::1::::<><>::
+level1.tscn::PackedScene::8688117889470911829::1704141176::0::1::::<><>::res://Scripts/level1.gd<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dx7g7icyjwcfh::::res://Art/Background/Pink.png<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn<>uid://by5e0xkbmniau::::res://Scenes/door.tscn
+level2.tscn::PackedScene::2479673809872732712::1704141176::0::1::::<><>::res://Scripts/level2.gd<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dm17efupph7un::::res://Art/Background/Gray.png<>uid://by5e0xkbmniau::::res://Scenes/door.tscn<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn
+level3.tscn::PackedScene::2495452112240807662::1704141176::0::1::::<><>::res://Scripts/level3.gd<>uid://0qvg3sjpnsi5::::res://Art/Background/Brown.png<>uid://cfuxm8qvyyw84::::res://Art/Terrain/Terrain (16x16).png<>uid://bkhvhx5lmjp6::::res://Scenes/player.tscn<>uid://u22poofr0fl0::::res://Scenes/goomba.tscn<>uid://cx4xun6n73vf2::::res://Scenes/flyer.tscn<>uid://dgpd1a30sb4yj::::res://Scenes/trophy.tscn<>uid://c36rb0lm13hot::::res://Scenes/coin.tscn
+main.tscn::PackedScene::90925641351591850::1704134368::0::1::::<><>::res://Scripts/main.gd<>uid://dria5wherse8c
+main_menu_background.tscn::PackedScene::8369042155307985492::1704134368::0::1::::<><>::res://Scripts/main_menu_background.gd<>uid://dx7g7icyjwcfh
+player.tscn::PackedScene::91295546372195793::1704141177::0::1::::<><>::res://Scripts/player.gd<>uid://c6nj7qhbiv1xv::::res://Scenes/hud.tscn<>uid://bk5wrtkpx2q0n::::res://Art/Main Characters/Ninja Frog/Fall (32x32).png<>uid://bhesxp6blgqui::::res://Art/Main Characters/Ninja Frog/Idle (32x32).png<>uid://ja7ywthisi2c::::res://Art/Main Characters/Ninja Frog/Double Jump (32x32).png<>uid://bwl45mbclq0g::::res://Art/Main Characters/Ninja Frog/Jump (32x32).png<>uid://b5by2rmywwlr1::::res://Art/Main Characters/Ninja Frog/Run (32x32).png<>uid://bsx506pqd6532::::res://Art/Main Characters/Ninja Frog/Hit (32x32).png<>uid://de2tynfubavgm::::res://Sound Effects/Retro Jump Classic 08.wav<>uid://brl8a2vu7i3r8::::res://Sound Effects/Retro Impact Punch Hurt 01.wav
+splash_screen.tscn::PackedScene::7277682555700881471::1704141177::0::1::::<><>::uid://cxb1ka3jekd3i::::res://Art/logo-color.png<>res://Scripts/splash_screen.gd
 trophy.tscn::PackedScene::7611589405252757749::1704046391::0::1::::<><>::res://Scripts/win_game.gd<>uid://c1p6xh68csch8
 win_screen.tscn::PackedScene::3221448038709301705::1704046391::0::1::::<><>::
 ::res://Scripts/::1704134362

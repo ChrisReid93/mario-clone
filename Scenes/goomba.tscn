@@ -6,7 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://1vyo2abn6odl" path="res://Art/Main Characters/Desappearing (96x96).png" id="3_en3i7"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_oygip"]
-size = Vector2(24, 12)
+size = Vector2(25, 13)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_clmw6"]
 atlas = ExtResource("2_usm1s")
@@ -289,10 +289,10 @@ _data = {
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_nwrnf"]
 radius = 5.0
-height = 24.0
+height = 26.0
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_vxuti"]
-size = Vector2(29.25, 16.5625)
+size = Vector2(27, 15.2813)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_msxak"]
 size = Vector2(16, 654)
@@ -302,7 +302,7 @@ collision_layer = 4
 script = ExtResource("1_dhv78")
 
 [node name="GoombaBody" type="CollisionShape2D" parent="."]
-position = Vector2(0, 5)
+position = Vector2(0.5, 4.5)
 shape = SubResource("RectangleShape2D_oygip")
 metadata/_edit_lock_ = true
 
@@ -324,17 +324,16 @@ collision_mask = 3
 metadata/_edit_lock_ = true
 
 [node name="PlayerStompHitbox" type="CollisionShape2D" parent="PlayerStomp"]
-position = Vector2(0, -8)
+position = Vector2(1, -8)
 rotation = 1.5708
 shape = SubResource("CapsuleShape2D_nwrnf")
 
 [node name="PlayerHit" type="Area2D" parent="."]
 collision_layer = 4
 collision_mask = 3
-metadata/_edit_lock_ = true
 
 [node name="PlayerHitHitbox" type="CollisionShape2D" parent="PlayerHit"]
-position = Vector2(0, 5)
+position = Vector2(0.5, 4.35938)
 shape = SubResource("RectangleShape2D_vxuti")
 
 [node name="PlayerDetection" type="Area2D" parent="."]

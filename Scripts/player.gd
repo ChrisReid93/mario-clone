@@ -104,7 +104,7 @@ func _on_coyote_timer_timeout():
 
 func _on_player_hitbox_area_entered(area):
 	# Have player bounce off enemy when they kill them/land on their head
-	if area.name == "PlayerStomp":
+	if area.name == "PlayerStomp" and anim.current_animation != "Hurt":
 		velocity.y = JUMP_VELOCITY
 		$Sounds/JumpSound.play()
 		

@@ -240,7 +240,7 @@ _data = {
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_fb07r"]
 radius = 4.0
-height = 24.0
+height = 26.0
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_eppet"]
 size = Vector2(27, 14.2813)

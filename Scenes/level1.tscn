@@ -801,6 +801,12 @@ position = Vector2(6250, 47)
 [node name="Goomba19" parent="Goombas" instance=ExtResource("2_5okmc")]
 position = Vector2(6794, 175)
 
+[node name="Goomba22" parent="Goombas" instance=ExtResource("2_5okmc")]
+position = Vector2(6850, 115)
+
+[node name="Goomba23" parent="Goombas" instance=ExtResource("2_5okmc")]
+position = Vector2(6850, 115)
+
 [node name="Goomba20" parent="Goombas" instance=ExtResource("2_5okmc")]
 position = Vector2(7314, 80)
 
@@ -828,7 +834,7 @@ position = Vector2(2346, 128)
 position = Vector2(3362, -35)
 
 [node name="Flyer7" parent="Flyers" instance=ExtResource("3_tap56")]
-position = Vector2(3914, 71)
+position = Vector2(3914, 70)
 
 [node name="Flyer8" parent="Flyers" instance=ExtResource("3_tap56")]
 position = Vector2(5242, 116)
@@ -840,10 +846,10 @@ position = Vector2(6530, 54)
 position = Vector2(6530, 54)
 
 [node name="Flyer11" parent="Flyers" instance=ExtResource("3_tap56")]
-position = Vector2(6914, 95)
+position = Vector2(6946, 54)
 
 [node name="Flyer6" parent="Flyers" instance=ExtResource("3_tap56")]
-position = Vector2(8170, 112.515)
+position = Vector2(8146, 103)
 
 [node name="Coins" type="Node2D" parent="."]
 
