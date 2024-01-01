@@ -10,10 +10,13 @@ config_version=5
 
 [application]
 
-config/name="Mario Clone"
-run/main_scene="res://Scenes/main.tscn"
+config/name="Fastest Frog"
+run/main_scene="res://Scenes/splash_screen.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
-config/icon="res://icon.svg"
+boot_splash/bg_color=Color(0.0862745, 0.156863, 0.211765, 1)
+boot_splash/show_image=false
+config/icon="res://Art/Enemies/AngryPig/Pig Sprite.png"
+config/windows_native_icon="res://Art/Enemies/AngryPig/Pig Sprite.ico"
 
 [autoload]
 

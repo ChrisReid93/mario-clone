@@ -1,0 +1,17 @@
+res://Autoloads/MusicController.tscn::ba66eca429e62738b4c26563b26e55a9::1704134368::res://.godot/exported/133200997/export-531033d2e38a1179f388c9f34fafb365-MusicController.scn
+res://Scenes/background_music.tscn::0775e4e4ee9893575e116d7412adb1b9::1703610404::res://.godot/exported/133200997/export-89c81079d93d8954e062a675cb4d8e27-background_music.scn
+res://Scenes/coin.tscn::4bbcf2d8cc85a9f987c80bc13e912be3::1704134368::res://.godot/exported/133200997/export-cfd538a465b9799b811984d89e43d2b9-coin.scn
+res://Scenes/door.tscn::6dc806837689d7286a3ba81f8824a11d::1703955935::res://.godot/exported/133200997/export-fe730ee429ab9ada90dbb83893c015e2-door.scn
+res://Scenes/flyer.tscn::99af76f653cca090b1063f3fc3b095df::1704058690::res://.godot/exported/133200997/export-3ebca6c32e8d7e791e91ef58fccb61bc-flyer.scn
+res://Scenes/game_over.tscn::665d3db269d71a9cff1d6223605bf328::1704134368::res://.godot/exported/133200997/export-33c320c97f44f546398d5119030678b4-game_over.scn
+res://Scenes/goomba.tscn::75afb795e765acb40f067ee2e0b6f519::1704058689::res://.godot/exported/133200997/export-2c611498c0d983f8c8cbd83332c786aa-goomba.scn
+res://Scenes/hud.tscn::41750aa4d9021e436940a2e182e8b7c0::1704137274::res://.godot/exported/133200997/export-885e17d6a23b453de5b281f1a900d8bb-hud.scn
+res://Scenes/level1.tscn::db0fa4416167aa1c58735e16c55e8c76::1704137274::res://.godot/exported/133200997/export-850454f34ca932024817aa3644773966-level1.scn
+res://Scenes/level2.tscn::b4b78e0daeb46f03567b789b60fb4188::1704138689::res://.godot/exported/133200997/export-118487f21f2527308bea37421a857818-level2.scn
+res://Scenes/level3.tscn::e792345524dbb7a90112f8cf6cc9974f::1704138773::res://.godot/exported/133200997/export-af226d379f99da112edf1ae840313f0a-level3.scn
+res://Scenes/main.tscn::8f91b646320c3ec04bb3da61a9401bf2::1704134368::res://.godot/exported/133200997/export-2ddd04d543d5858e7f20c9299a8b5096-main.scn
+res://Scenes/main_menu_background.tscn::805ec68002830ba7bfa973adae9a2e0e::1704134368::res://.godot/exported/133200997/export-ffdf266705399d1a2c2ef923e019219e-main_menu_background.scn
+res://Scenes/player.tscn::ae221a521c89276b8231d43daa55ffbf::1704137274::res://.godot/exported/133200997/export-1753c997600d68ab5d20ae99fddb15c6-player.scn
+res://Scenes/splash_screen.tscn::bcdf01f21c0fa5cd029b5f5876c15d7d::1704137274::res://.godot/exported/133200997/export-996550a04e3b775c9f04b290910bc286-splash_screen.scn
+res://Scenes/trophy.tscn::38198a9aa1762033e380929e6549aa19::1704046391::res://.godot/exported/133200997/export-d1beab443c438844fde0208a54cf3b58-trophy.scn
+res://Scenes/win_screen.tscn::4a1616593dbe354866c3f37a5f5990ae::1704046391::res://.godot/exported/133200997/export-eb37307f6f09708a3d344f8aa01d4f81-win_screen.scn

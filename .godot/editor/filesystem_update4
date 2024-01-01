@@ -1,15 +1,6 @@
+res://Scenes/splash_screen.tscn
 res://Scenes/level1.tscn
 res://Scenes/level2.tscn
 res://Scenes/level3.tscn
 res://Scenes/hud.tscn
 res://Scenes/player.tscn
-res://Autoloads/MusicController.tscn
-res://Scenes/game_over.tscn
-res://Scenes/main_menu_background.tscn
-res://Scenes/main.tscn
-res://Scenes/coin.tscn
-res://Scripts/coin.gd
-res://Scripts/main.gd
-res://Scripts/game_over.gd
-res://Autoloads/MusicController.gd
-res://Scripts/player.gd
