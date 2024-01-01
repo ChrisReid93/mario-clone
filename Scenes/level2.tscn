@@ -888,7 +888,7 @@ position = Vector2(4802, 63)
 position = Vector2(4946, -25)
 
 [node name="Door" parent="." instance=ExtResource("7_0qt0q")]
-position = Vector2(8882, 127)
+position = Vector2(8882, 130)
 
 [node name="EndOfLevelBlock" type="StaticBody2D" parent="."]
 position = Vector2(9010, -25)

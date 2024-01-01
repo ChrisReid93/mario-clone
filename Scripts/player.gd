@@ -97,12 +97,13 @@ func jump():
 	if anim.current_animation != "Hurt":
 		anim.play("Jump")
 
-
+# Once CoyoteTimer runs out, player can no longer jump and will fall.
 func _on_coyote_timer_timeout():
 	can_jump = false
 
 
 func _on_player_hitbox_area_entered(area):
+	# Have player bounce off enemy when they kill them/land on their head
 	if area.name == "PlayerStomp":
 		velocity.y = JUMP_VELOCITY
 		$Sounds/JumpSound.play()

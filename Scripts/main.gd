@@ -1,7 +1,7 @@
 extends Node2D
 
 
-# Start the game when pressing "Play"
+# Start the game when pressing "Play" and quit when pressing "Quit". ALso play background music on ready.
 func _ready():
 	MusicController.play_main_menu_music()
 

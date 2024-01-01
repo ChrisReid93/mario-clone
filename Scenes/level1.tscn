@@ -831,7 +831,7 @@ position = Vector2(3362, -35)
 position = Vector2(3914, 71)
 
 [node name="Flyer8" parent="Flyers" instance=ExtResource("3_tap56")]
-position = Vector2(5170, 121)
+position = Vector2(5242, 116)
 
 [node name="Flyer9" parent="Flyers" instance=ExtResource("3_tap56")]
 position = Vector2(6530, 54)
@@ -887,7 +887,7 @@ position = Vector2(7922, 110)
 position = Vector2(7506, 39)
 
 [node name="Door" parent="." instance=ExtResource("9_eomi8")]
-position = Vector2(8842, 132.515)
+position = Vector2(8842, 129.515)
 
 [node name="EndOfLevelBlock" type="StaticBody2D" parent="."]
 position = Vector2(8955.49, -4)
