@@ -1,3 +1,5 @@
+res://Scenes/trophy.tscn
+res://Autoloads/Game.gd
 res://Scenes/level1.tscn
 res://Scenes/level2.tscn
 res://Scenes/level3.tscn
@@ -6,4 +8,3 @@ res://Scenes/player.tscn
 res://Scenes/splash_screen.tscn
 res://Scenes/goomba.tscn
 res://Scenes/flyer.tscn
-res://Scripts/player.gd

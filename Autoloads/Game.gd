@@ -8,4 +8,5 @@ var score_timer = Timer.new()
 
 func _ready():
 	add_child(score_timer)
+	score_timer.one_shot = true
 
